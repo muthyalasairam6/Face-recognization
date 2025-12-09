@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of EduConnect",
+  "description": "An AIML-powered communication and management platform for students, faculty, and administrators. Features include role-based dashboards, facial attendance, notes sharing, reminders, and an AI chat assistant.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
